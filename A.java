@@ -1,19 +1,19 @@
 class Animal {
 	void eat()
 	{
-		System.out.println("Eating");
+		System.out.println("Man is Eating");
 	}
 }
 class Dog extends Animal{
 	void bark()
 	{
-		System.out.println("Barking");
+		System.out.println("Dog is Barking");
 	}
 }
 class Cat extends Animal{
 	void meow()
 	{
-		System.out.println("Meowing");
+		System.out.println("Cat is Meowing");
 }
 }
 class A
